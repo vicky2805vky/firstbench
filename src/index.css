@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #929199;
+  --btn-color: #5a5fbb;
+  --tag-color: #0f9692;
+  --tag-color2: #26b5b1;
+  --primary-bg: #f7f6fc;
+  --secondary-bg: #d9d5f6;
+
+  --fs-xs: 8px;
+  --fs-sm: 10px;
+}
