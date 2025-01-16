@@ -22,13 +22,19 @@ Follow these steps to get the application running locally:
    ```bash
    git clone https://github.com/vicky2805vky/firstbench.git
    ```
-2. **Install Dependencies**
+2. **Navigate to the project folder**
+
+   ```bash
+   cd firstbench
+   ```
+
+3. **Install Dependencies**
 
    ```bash
    npm install
    ```
 
-3. **Run the application**
+4. **Run the application**
    ```bash
    npm start
    ```
